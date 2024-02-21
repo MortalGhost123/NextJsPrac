@@ -30,6 +30,6 @@
     ".next/types/**/*.ts",
     "app/lib/placeholder-data.js",
     "scripts/seed.js"
-  ],
+, "scripts/pg.js"  ],
   "exclude": ["node_modules"]
 }
